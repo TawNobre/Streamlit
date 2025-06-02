@@ -21,4 +21,5 @@ else:
     st.write(f"O gráfico abaixo representa a evolução do preço das ações do {ticker} ao longo dos anos")
     st.line_chart(dados)
 
+
 st.write("## Fim do app")
